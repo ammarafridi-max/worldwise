@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "1611",
+      "cityName": "Thil",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-04T05:22:39.706Z",
+      "notes": "",
+      "position": {
+        "lat": "48.3416461723746",
+        "lng": "4.812011718750001"
+      }
+    },
+    {
+      "id": "2eb5",
+      "cityName": "Bouesse",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-04T05:27:36.448Z",
+      "notes": "",
+      "position": {
+        "lat": "46.649436163350245",
+        "lng": "1.6699218750000002"
+      }
+    },
+    {
+      "id": "b44f",
+      "cityName": "San Justo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-04T05:29:56.297Z",
+      "notes": "",
+      "position": {
+        "lat": "42.19596877629178",
+        "lng": "-6.723632812500001"
+      }
+    }
+  ]
+}
